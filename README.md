@@ -21,3 +21,8 @@ Not an alarm. Only messages with the option to receive emails.
 ### Are You old enough to order the prescription or would you need supervision (would you like to order prescriptions for someone underaged)?
 
 "I am old enough to order the medicine for myself, but i would like a feature that allows me to order prescriptions for my 3 year old daughter, but have to be authorised by the GP each time."
+
+### Should the app include images of the specified medication/prescription?
+
+In regards to this user it is not necessary however some may find it more comforting to have a 1-to-1 picture of what
+their medicine may look like in order to ensure they are being given the correct one. As in some instances it may be difficult to determine the correct one purely through the name of the medication due to some being similar.
