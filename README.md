@@ -17,3 +17,7 @@ Not an alarm. Only messages with the option to receive emails.
 ### Do you want your prescriptions automatically renewed or do you want to renew it manually?
 
 "Ideally it is renewed automatically however, if there is an issue with the prescription such as my usual pharmacy not having the prescription available, I want to have the option to select the nearest pharamacy that has the prescription"
+
+### Are You old enough to order the prescription or would you need supervision (would you like to order prescriptions for someone underaged)?
+
+"I am old enough to order the medicine for myself, but i would like a feature that allows me to order prescriptions for my 3 year old daughter, but have to be authorised by the GP each time."
